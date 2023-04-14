@@ -1,0 +1,8 @@
+{uuid:'1',name:'Soda de Maçã Verde',type:'nonAlcoholic',description:'Uma deliciosa bebida com muito gelo, água com gás e xarope sabor Maçã Verde.',price: 17},
+{uuid:'3',name:'Soda de Limão',type:'nonAlcoholic',description:'Uma deliciosa bebida com muito gelo, água com gás e xarope sabor Limão.',price: 17},
+{uuid:'2',name:'Soda de Morango',type:'nonAlcoholic',description:'Uma deliciosa bebida com muito gelo, água com gás e xarope sabor Morango.',price: 17},
+{uuid:'4',name:'Soda de Uva',type:'nonAlcoholic',description:'Uma deliciosa bebida com muito gelo, água com gás e xarope sabor Uva.',price: 17},
+{uuid:'5',name:'Soda de Maçã Verde com Gin',type:'alcoholic',description:'Uma deliciosa bebida com muito gelo, água com gás, uma dose de gin e xarope sabor Maçã Verde.',price: 23},
+{uuid:'6',name:'Soda de Limão com Gin',type:'alcoholic',description:'Uma deliciosa bebida com muito gelo, água com gás, uma dose de gin e xarope sabor Limão.',price: 23},
+{uuid:'7',name:'Soda de Morango com Gin',type:'alcoholic',description:'Uma deliciosa bebida com muito gelo, água com gás, uma dose de gin e xarope sabor Morango.',price: 23},
+{uuid:'8',name:'Soda de Maçã Verde com Vodka',type:'alcoholic',description:'Uma deliciosa bebida com muito gelo, água com gás, uma dose de vodka e xarope sabor Maçã Verde.',price: 23},

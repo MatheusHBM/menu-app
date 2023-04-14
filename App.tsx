@@ -2,13 +2,14 @@ import React from "react";
 import { NativeBaseProvider, Box, StatusBar } from "native-base";
 import { Start } from "./src/screens/Start";
 import { Home } from "./src/screens/Home";
+import { THEME } from "./src/styles/theme";
 
 export default function App() {
   return (
-    <NativeBaseProvider>
+    <NativeBaseProvider theme={THEME}>
       <StatusBar barStyle="light-content" backgroundColor={'transparent'} translucent/>    
     {/*<Start />*/}
-    <Home />
+    <Start />
     </NativeBaseProvider>
   );
 }
