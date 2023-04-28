@@ -23,7 +23,7 @@ export function Option({data, itemList, setItemList, drinkType, handleList, ...r
     const {colors} = useTheme();
 
   return (
-    <Pressable>
+    <Pressable {...rest}>
        {data.type===drinkType && <HStack
     bg='gray.800'
     mb={4}
